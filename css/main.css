@@ -5290,6 +5290,7 @@ a.credit {
   max-width: 100px;
   max-height: 100px;
   margin: 20px;
+  object-fit: contain;
 }
 
 .habilidades-body {
